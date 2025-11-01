@@ -60,9 +60,9 @@ Embedding(total_words, 100, input_length=max_sequence_len-1)
 
 | Training Accuracy | Training Loss |
 |--------------------|----------------|
-| ![Training accuracy](https://github.com/PXDHU/Natural-Language-Processing/blob/b611a07a3266ba7c99f49238e99f8bd342d44037/NLP%20curves/Training%20Loss.png)) | ![Training loss](https://github.com/PXDHU/Natural-Language-Processing/blob/b611a07a3266ba7c99f49238e99f8bd342d44037/NLP%20curves/Training%20Loss.png) |
+| ![Training accuracy](https://github.com/PXDHU/Natural-Language-Processing/blob/6463c868603e0246a7481ffcba657bb1ebf925b4/NLP%20curves/Training%20accuracy.png) | ![Training loss](https://github.com/PXDHU/Natural-Language-Processing/blob/b611a07a3266ba7c99f49238e99f8bd342d44037/NLP%20curves/Training%20Loss.png) |
 
-(See the `/images` folder or notebook output for the plots.)
+(See the `/NLP curves` folder or notebook output for the plots.)
 
 ---
 
